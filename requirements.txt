@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+scikit-learn
+xgboost
+mlforecast
+window-ops
+pymysql
+joblib
+python-dotenv
+window_ops
+numba
+skl2onnx

@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración local
+.env
+
+# Archivos binarios o persistentes
+models/model.pkl
+
+# Logs o archivos temporales
+*.log
+*.tmp
+
+# Configuración de VSCode
+.vscode/
